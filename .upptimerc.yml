@@ -25,3 +25,5 @@ status-website:
   navbar:
     - title: Homepage
       href: https://www.krampe.de/
+workflowSchedule:
+  uptime: "*/20 * * * *"
