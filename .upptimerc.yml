@@ -4,9 +4,12 @@ repo: krampe-status
 sites:
   - name: Krampe
     url: https://www.krampe.de
+    type: globalping
+    location: Berlin
 
 status-website:
   baseUrl: /krampe-status
   logoUrl: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/logo-krampe-claim.svg
   faviconSvg: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/android-chrome-512x512.png
+  name: Status
   introTitle: "Krampe Status - Live Monitoring of Our Services"
