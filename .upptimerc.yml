@@ -6,10 +6,22 @@ sites:
     url: https://www.krampe.de
     type: globalping
     location: Berlin
+  - name: Krampe Shop
+    url: https://krampe-shop.de
+    type: globalping
+    location: Berlin
+  - name: Krampe spare parts service
+    url: https://krampe.ricambio.net
+    type: globalping
+    location: Berlin
 
 status-website:
   baseUrl: /krampe-status
   logoUrl: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/logo-krampe-claim.svg
   faviconSvg: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/android-chrome-512x512.png
-  name: Status
+  name:
+  theme: light
   introTitle: "Krampe Status - Live Monitoring of Our Services"
+  navbar:
+    - title: Homepage
+      href: https://www.krampe.de/
