@@ -6,7 +6,6 @@ sites:
     url: https://www.krampe.de
 
 status-website:
-  #cname: status.krampe.de
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/logo-krampe-claim.svg
   faviconSvg: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/android-chrome-512x512.png
