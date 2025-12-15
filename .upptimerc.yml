@@ -16,7 +16,7 @@ sites:
     location: Berlin
 
 status-website:
-  baseUrl: /krampe-status
+  cname: status.krampe.de
   logoUrl: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/logo-krampe-claim.svg
   faviconSvg: https://raw.githubusercontent.com/Krampe-Fahrzeugbau-GmbH/krampe-status/master/assets/android-chrome-512x512.png
   name:
