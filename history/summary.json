@@ -6,16 +6,17 @@
     "slug": "krampe",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.62%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 277,
-    "timeDay": 88,
+    "timeDay": 79,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2026-02-04": 49
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://krampe-shop.de",
     "icon": "https://icons.duckduckgo.com/ip3/krampe-shop.de.ico",
     "slug": "krampe-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.62%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 177,
-    "timeDay": 225,
+    "timeDay": 111,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 177,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2026-02-04": 49
     }
   },
@@ -44,18 +46,19 @@
     "url": "https://krampe.ricambio.net",
     "icon": "https://icons.duckduckgo.com/ip3/krampe.ricambio.net.ico",
     "slug": "krampe-spare-parts-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 1452,
-    "timeDay": 847,
+    "timeDay": 610,
     "timeWeek": 1356,
     "timeMonth": 1356,
     "timeYear": 1452,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2026-02-04": 49
     }
   }
