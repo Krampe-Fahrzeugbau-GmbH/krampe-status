@@ -44,15 +44,15 @@
     "url": "https://krampe-shop.de",
     "icon": "https://icons.duckduckgo.com/ip3/krampe-shop.de.ico",
     "slug": "krampe-shop",
-    "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "98.12%",
+    "status": "up",
+    "uptime": "98.09%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "98.09%",
     "time": 222,
-    "timeDay": 147,
-    "timeWeek": 208,
+    "timeDay": 189,
+    "timeWeek": 213,
     "timeMonth": 251,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -93,7 +93,7 @@
       "2026-07-14": 253,
       "2026-07-21": 89,
       "2026-07-22": 292,
-      "2026-07-23": 0
+      "2026-07-23": 104
     }
   },
   {
