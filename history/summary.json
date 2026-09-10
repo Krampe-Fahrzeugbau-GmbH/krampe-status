@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/krampe-shop.de.ico",
     "slug": "krampe-shop",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.93%",
+    "uptimeYear": "97.94%",
     "time": 212,
     "timeDay": 142,
     "timeWeek": 197,
@@ -108,9 +108,9 @@
     "url": "https://krampe.ricambio.net",
     "icon": "https://icons.duckduckgo.com/ip3/krampe.ricambio.net.ico",
     "slug": "krampe-spare-parts-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
@@ -140,7 +140,8 @@
       "2026-04-11": 8,
       "2026-04-16": 195,
       "2026-04-18": 47,
-      "2026-05-11": 253
+      "2026-05-11": 253,
+      "2026-09-10": 0
     }
   }
 ]
