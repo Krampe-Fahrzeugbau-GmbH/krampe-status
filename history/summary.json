@@ -53,7 +53,7 @@
     "time": 211,
     "timeDay": 213,
     "timeWeek": 190,
-    "timeMonth": 199,
+    "timeMonth": 202,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2026-02-04": 49,
@@ -108,17 +108,17 @@
     "url": "https://krampe.ricambio.net",
     "icon": "https://icons.duckduckgo.com/ip3/krampe.ricambio.net.ico",
     "slug": "krampe-spare-parts-service",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.57%",
-    "time": 1313,
-    "timeDay": 2355,
-    "timeWeek": 1216,
-    "timeMonth": 1197,
-    "timeYear": 1313,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.54%",
+    "time": 1310,
+    "timeDay": 1525,
+    "timeWeek": 1151,
+    "timeMonth": 1194,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2026-02-04": 49,
       "2026-02-05": 61,
@@ -143,7 +143,8 @@
       "2026-05-11": 253,
       "2026-09-11": 33,
       "2026-09-10": 79,
-      "2026-09-24": 0
+      "2026-09-25": 46,
+      "2026-09-24": 92
     }
   }
 ]
