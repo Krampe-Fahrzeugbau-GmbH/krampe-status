@@ -1,7 +1,7 @@
 url: https://krampe-shop.de
-status: up
-code: 200
-responseTime: 205
-lastUpdated: 2026-10-02T02:01:39.538Z
+status: down
+code: 429
+responseTime: 73
+lastUpdated: 2026-10-02T18:27:52.943Z
 startTime: 2025-12-15T12:28:28.164Z
 generator: Upptime <https://github.com/upptime/upptime>
